@@ -8,6 +8,7 @@ import java.io.OutputStreamWriter;
 import java.io.PrintWriter;
 import java.util.Stack;
 
+//teste malopes
 public class Main {
 
     public static void main(String[] args) throws NumberFormatException, IOException {
