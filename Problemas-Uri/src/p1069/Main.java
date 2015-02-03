@@ -5,10 +5,6 @@
  */
 package p1069;
 
-/**
- *
- * @author Papai
- */
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
